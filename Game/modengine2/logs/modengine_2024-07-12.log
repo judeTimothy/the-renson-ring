@@ -1,0 +1,218 @@
+[2024-07-12 12:01:00.471] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 12:01:00.471] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 12:01:00.472] [modengine] [info] Local config loaded
+[2024-07-12 12:01:00.472] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:01:00.472] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:01:00.472] [modengine] [info] Main thread ID: 21320
+[2024-07-12 12:01:00.477] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 12:04:34.905] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 12:04:34.905] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 12:04:34.905] [modengine] [info] Local config loaded
+[2024-07-12 12:04:34.905] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:04:34.905] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:04:34.905] [modengine] [info] Main thread ID: 25356
+[2024-07-12 12:04:34.909] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 12:04:36.545] [modengine] [info] Enabling extension base
+[2024-07-12 12:04:36.545] [modengine] [info] Enabled extension base
+[2024-07-12 12:04:36.545] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:04:36.545] [modengine] [info] Installing mod location modengine2\mod
+[2024-07-12 12:04:36.545] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod
+[2024-07-12 12:04:36.545] [modengine] [info] Installing mod location modengine2\mod\SeamlessCoop
+[2024-07-12 12:04:36.545] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop
+[2024-07-12 12:04:36.545] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:04:36.578] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:04:36.581] [modengine] [info] Starting worker thread
+[2024-07-12 12:07:17.231] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 12:07:17.231] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 12:07:17.231] [modengine] [info] Local config loaded
+[2024-07-12 12:07:17.231] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:07:17.231] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:07:17.231] [modengine] [info] Main thread ID: 8132
+[2024-07-12 12:07:17.236] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 12:07:18.747] [modengine] [info] Enabling extension base
+[2024-07-12 12:07:18.748] [modengine] [info] Enabled extension base
+[2024-07-12 12:07:18.748] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:07:18.748] [modengine] [info] Installing mod location modengine2\mod
+[2024-07-12 12:07:18.748] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod
+[2024-07-12 12:07:18.748] [modengine] [info] Installing mod location modengine2\mod\SeamlessCoop
+[2024-07-12 12:07:18.748] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop
+[2024-07-12 12:07:18.748] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:07:18.783] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:07:18.788] [modengine] [info] Starting worker thread
+[2024-07-12 12:08:42.664] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 12:08:42.664] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 12:08:42.664] [modengine] [info] Local config loaded
+[2024-07-12 12:08:42.664] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:08:42.664] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:08:42.664] [modengine] [info] Main thread ID: 5020
+[2024-07-12 12:08:42.668] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 12:08:44.228] [modengine] [info] Enabling extension base
+[2024-07-12 12:08:44.228] [modengine] [info] Enabled extension base
+[2024-07-12 12:08:44.228] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:08:44.228] [modengine] [info] Installing mod location modengine2\mod
+[2024-07-12 12:08:44.228] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod
+[2024-07-12 12:08:44.228] [modengine] [info] Installing mod location modengine2\mod\SeamlessCoop
+[2024-07-12 12:08:44.229] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop
+[2024-07-12 12:08:44.229] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:08:44.264] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:08:44.267] [modengine] [info] Starting worker thread
+[2024-07-12 12:10:49.389] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 12:10:49.389] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 12:10:49.389] [modengine] [info] Local config loaded
+[2024-07-12 12:10:49.389] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:10:49.389] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:10:49.389] [modengine] [info] Main thread ID: 23116
+[2024-07-12 12:10:49.393] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 12:10:50.669] [modengine] [info] Enabling extension base
+[2024-07-12 12:10:50.670] [modengine] [info] Enabled extension base
+[2024-07-12 12:10:50.670] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:10:50.670] [modengine] [info] Installing mod location modengine2\mod
+[2024-07-12 12:10:50.670] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod
+[2024-07-12 12:10:50.670] [modengine] [info] Installing mod location modengine2\mod\SeamlessCoop
+[2024-07-12 12:10:50.670] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop
+[2024-07-12 12:10:50.670] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:10:50.703] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:10:50.707] [modengine] [info] Starting worker thread
+[2024-07-12 12:12:31.052] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 12:12:31.052] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 12:12:31.053] [modengine] [info] Local config loaded
+[2024-07-12 12:12:31.053] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:12:31.053] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:12:31.053] [modengine] [info] Main thread ID: 7344
+[2024-07-12 12:12:31.057] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 12:12:32.396] [modengine] [info] Enabling extension base
+[2024-07-12 12:12:32.396] [modengine] [info] Enabled extension base
+[2024-07-12 12:12:32.396] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:12:32.396] [modengine] [info] Installing mod location modengine2\mod
+[2024-07-12 12:12:32.396] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod
+[2024-07-12 12:12:32.396] [modengine] [info] Installing mod location modengine2\mod\SeamlessCoop
+[2024-07-12 12:12:32.396] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop
+[2024-07-12 12:12:32.397] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:12:32.430] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:12:32.434] [modengine] [info] Starting worker thread
+[2024-07-12 12:26:58.072] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 12:26:58.072] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 12:26:58.083] [modengine] [info] Local config loaded
+[2024-07-12 12:26:58.083] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:26:58.083] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:26:58.083] [modengine] [info] Main thread ID: 6088
+[2024-07-12 12:26:58.087] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 12:26:59.373] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll
+[2024-07-12 12:26:59.375] [modengine] [warning] External dll C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll at base address 0x7ffa212c0000 is not a modengine extension
+[2024-07-12 12:26:59.375] [modengine] [info] Enabling extension base
+[2024-07-12 12:26:59.375] [modengine] [info] Enabled extension base
+[2024-07-12 12:26:59.376] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:26:59.376] [modengine] [info] Installing mod location modengine2\mod
+[2024-07-12 12:26:59.376] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod
+[2024-07-12 12:26:59.376] [modengine] [info] Installing mod location modengine2\mod\SeamlessCoop
+[2024-07-12 12:26:59.376] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop
+[2024-07-12 12:26:59.376] [modengine] [info] Installing mod location modengine2\mod\PostureBarMod
+[2024-07-12 12:26:59.376] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod
+[2024-07-12 12:26:59.376] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:26:59.412] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:26:59.416] [modengine] [info] Starting worker thread
+[2024-07-12 12:37:20.419] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 12:37:20.419] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 12:37:20.419] [modengine] [info] Local config loaded
+[2024-07-12 12:37:20.419] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 12:37:20.419] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 12:37:20.419] [modengine] [info] Main thread ID: 26372
+[2024-07-12 12:37:20.423] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 12:37:21.766] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll
+[2024-07-12 12:37:21.766] [modengine] [warning] External dll C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll at base address 0x7ffa30c00000 is not a modengine extension
+[2024-07-12 12:37:21.766] [modengine] [info] Enabling extension base
+[2024-07-12 12:37:21.766] [modengine] [info] Enabled extension base
+[2024-07-12 12:37:21.766] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 12:37:21.766] [modengine] [info] Installing mod location modengine2\mod
+[2024-07-12 12:37:21.766] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod
+[2024-07-12 12:37:21.766] [modengine] [info] Installing mod location modengine2\mod\SeamlessCoop
+[2024-07-12 12:37:21.766] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop
+[2024-07-12 12:37:21.766] [modengine] [info] Installing mod location modengine2\mod\PostureBarMod
+[2024-07-12 12:37:21.766] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod
+[2024-07-12 12:37:21.766] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 12:37:21.799] [modengine] [info] Applied 3 hooks
+[2024-07-12 12:37:21.803] [modengine] [info] Starting worker thread
+[2024-07-12 18:39:13.870] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 18:39:13.870] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 18:39:13.870] [modengine] [info] Local config loaded
+[2024-07-12 18:39:13.871] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 18:39:13.871] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 18:39:13.871] [modengine] [info] Main thread ID: 9640
+[2024-07-12 18:39:13.881] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 18:39:15.355] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll
+[2024-07-12 18:39:15.355] [modengine] [warning] External dll C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll at base address 0x7ffa13fe0000 is not a modengine extension
+[2024-07-12 18:39:15.355] [modengine] [info] Enabling extension base
+[2024-07-12 18:39:15.355] [modengine] [info] Enabled extension base
+[2024-07-12 18:39:15.355] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 18:39:15.355] [modengine] [info] Installing mod location modengine2\mod
+[2024-07-12 18:39:15.355] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod
+[2024-07-12 18:39:15.355] [modengine] [info] Installing mod location modengine2\mod\SeamlessCoop
+[2024-07-12 18:39:15.355] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop
+[2024-07-12 18:39:15.355] [modengine] [info] Installing mod location modengine2\mod\PostureBarMod
+[2024-07-12 18:39:15.355] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod
+[2024-07-12 18:39:15.355] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 18:39:15.388] [modengine] [info] Applied 3 hooks
+[2024-07-12 18:39:15.392] [modengine] [info] Starting worker thread
+[2024-07-12 19:42:06.601] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 19:42:06.601] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 19:42:06.601] [modengine] [info] Local config loaded
+[2024-07-12 19:42:06.601] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 19:42:06.601] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 19:42:06.601] [modengine] [info] Main thread ID: 3400
+[2024-07-12 19:42:06.606] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 19:42:08.528] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll
+[2024-07-12 19:42:08.528] [modengine] [warning] External dll C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll at base address 0x7ffa1ee40000 is not a modengine extension
+[2024-07-12 19:42:08.528] [modengine] [info] Enabling extension base
+[2024-07-12 19:42:08.528] [modengine] [info] Enabled extension base
+[2024-07-12 19:42:08.528] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 19:42:08.528] [modengine] [info] Installing mod location modengine2\mod
+[2024-07-12 19:42:08.528] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod
+[2024-07-12 19:42:08.528] [modengine] [info] Installing mod location modengine2\mod\SeamlessCoop
+[2024-07-12 19:42:08.528] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop
+[2024-07-12 19:42:08.528] [modengine] [info] Installing mod location modengine2\mod\PostureBarMod
+[2024-07-12 19:42:08.528] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod
+[2024-07-12 19:42:08.528] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 19:42:08.561] [modengine] [info] Applied 3 hooks
+[2024-07-12 19:42:08.564] [modengine] [info] Starting worker thread
+[2024-07-12 20:19:50.168] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 20:19:50.168] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 20:19:50.168] [modengine] [info] Local config loaded
+[2024-07-12 20:19:50.168] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 20:19:50.168] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 20:19:50.168] [modengine] [info] Main thread ID: 13740
+[2024-07-12 20:19:50.173] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 20:19:51.934] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll
+[2024-07-12 20:19:51.934] [modengine] [warning] External dll C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll at base address 0x7ffa34da0000 is not a modengine extension
+[2024-07-12 20:19:51.934] [modengine] [info] Enabling extension base
+[2024-07-12 20:19:51.934] [modengine] [info] Enabled extension base
+[2024-07-12 20:19:51.934] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 20:19:51.935] [modengine] [info] Installing mod location modengine2\mod
+[2024-07-12 20:19:51.935] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod
+[2024-07-12 20:19:51.935] [modengine] [info] Installing mod location modengine2\mod\SeamlessCoop
+[2024-07-12 20:19:51.935] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop
+[2024-07-12 20:19:51.935] [modengine] [info] Installing mod location modengine2\mod\PostureBarMod
+[2024-07-12 20:19:51.935] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod
+[2024-07-12 20:19:51.935] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 20:19:51.989] [modengine] [info] Applied 3 hooks
+[2024-07-12 20:19:51.994] [modengine] [info] Starting worker thread
+[2024-07-12 20:45:33.280] [modengine] [info] Attempting to load global config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\config.toml
+[2024-07-12 20:45:33.280] [modengine] [info] Attempting to load mod settings config at C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\config_eldenring.toml
+[2024-07-12 20:45:33.280] [modengine] [info] Local config loaded
+[2024-07-12 20:45:33.280] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-07-12 20:45:33.280] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-07-12 20:45:33.280] [modengine] [info] Main thread ID: 11188
+[2024-07-12 20:45:33.285] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop\ersc.dll
+[2024-07-12 20:45:35.097] [modengine] [info] Loaded external DLL C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll
+[2024-07-12 20:45:35.097] [modengine] [warning] External dll C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod\PostureBarMod.dll at base address 0x7ffa1c3d0000 is not a modengine extension
+[2024-07-12 20:45:35.097] [modengine] [info] Enabling extension base
+[2024-07-12 20:45:35.097] [modengine] [info] Enabled extension base
+[2024-07-12 20:45:35.097] [modengine] [info] Enabling extension mod_loader
+[2024-07-12 20:45:35.097] [modengine] [info] Installing mod location modengine2\mod
+[2024-07-12 20:45:35.098] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod
+[2024-07-12 20:45:35.098] [modengine] [info] Installing mod location modengine2\mod\SeamlessCoop
+[2024-07-12 20:45:35.098] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\SeamlessCoop
+[2024-07-12 20:45:35.098] [modengine] [info] Installing mod location modengine2\mod\PostureBarMod
+[2024-07-12 20:45:35.098] [modengine] [info] Resolved mod path to C:\Steam\SteamLibrary\steamapps\common\ELDEN RING\Game\modengine2\mod\PostureBarMod
+[2024-07-12 20:45:35.098] [modengine] [info] Enabled extension mod_loader
+[2024-07-12 20:45:35.135] [modengine] [info] Applied 3 hooks
+[2024-07-12 20:45:35.139] [modengine] [info] Starting worker thread
